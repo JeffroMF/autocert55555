@@ -10,7 +10,7 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/smallstep/certificates v0.18.1-0.20211215202236-ab44fbfb3f8d
 	github.com/smallstep/cli v0.18.0
-	golang.org/x/net v0.0.0-20210913180222-943fd674d43e
+	golang.org/x/net v0.7.0
 	google.golang.org/grpc v1.39.0
 	gopkg.in/inf.v0 v0.9.0 // indirect
 	k8s.io/api v0.0.0-20190327184913-92d2ee7fc726
